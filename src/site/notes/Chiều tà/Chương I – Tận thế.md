@@ -61,6 +61,6 @@ Liệu nhân loại sẽ đi về đâu, cùng đoán chờ nhé!
 
 [^1]: Sir Isaac Newton (1643–1727) là một nhà toán học, nhà vật lý học, nhà thiên văn học, nhà nghiên cứu thần học đại tài người Anh trong Cách mạng Khoa học. Đoạn trích trên dựa trên kết quả nghiên cứu thần học và giải mã Kinh Thánh của ông, được ghi lại trong bản thảo tay ký hiệu **Yahuda MS 7, folio 3 recto** (hiện đang được lưu giữ tại Thư viện Quốc gia Israel).
 
-[^2]: [[Chiều tà/Chú thích/Đại Khủng hoảng Johnson\|Đại Khủng hoảng Johnson]] (2038–2043) **[yếu tố viễn tưởng]**: Biến cố tồi tệ nhất lịch sử nhân loại, gây ra bởi sự hối lộ, lũng đoạn và sụp đổ của Tập đoàn Công nghệ Johnson.
+[^2]: [[Chú thích/Đại Khủng hoảng Johnson\|Đại Khủng hoảng Johnson]] (2038–2043) **[yếu tố viễn tưởng]**: Biến cố tồi tệ nhất lịch sử nhân loại, gây ra bởi sự hối lộ, lũng đoạn và sụp đổ của Tập đoàn Công nghệ Johnson.
 
-[^3]: [[Chiều tà/Chú thích/Đại dịch Sốt xuất huyết Hoàng Hôn\|Đại dịch Sốt xuất huyết Hoàng Hôn]] (2043–2045) **[yếu tố viễn tưởng]**: Đại dịch kinh hoàng do Virus HHAV gây ra tạo nên khủng hoảng dịch tễ chưa từng có trong lịch sử nhân loại.
+[^3]: [[Chú thích/Đại dịch Sốt xuất huyết Hoàng Hôn\|Đại dịch Sốt xuất huyết Hoàng Hôn]] (2043–2045) **[yếu tố viễn tưởng]**: Đại dịch kinh hoàng do Virus HHAV gây ra tạo nên khủng hoảng dịch tễ chưa từng có trong lịch sử nhân loại.

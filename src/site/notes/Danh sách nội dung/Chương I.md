@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/danh-sach-noi-dung/chuong-i/"}
+{"dg-publish":true,"dg-path":"1_Chương_I.md","permalink":"/1-chuong-i/"}
 ---
 
 > *“So then the time times & half a time are 42 months or 1260 days or three years & an half[...] it may end later, but I see no reason for its ending sooner [2060].”*

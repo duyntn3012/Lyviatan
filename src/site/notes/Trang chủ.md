@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"0_Trang chủ.md","permalink":"/0-trang-chu/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"0_Trang_chủ.md","permalink":"/0-trang-chu/","tags":["gardenEntry"]}
 ---
 
 # Chào mừng đến với góc nhỏ của mình!

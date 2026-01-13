@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"1_Chương_I.md","permalink":"/1-chuong-i/"}
+{"dg-publish":true,"dg-path":"1.1_Chương_I.md","permalink":"/1-1-chuong-i/"}
 ---
+
+# Chương I: Tận thế
 
 > *“So then the time times & half a time are 42 months or 1260 days or three years & an half[...] it may end later, but I see no reason for its ending sooner [2060].”*
 > — Isaac Newton[^1]
@@ -13,7 +15,7 @@ Sẽ ra sao nếu một ngày nhân loại bị thần linh trừng phạt? Ha, 
 
 Trái Đất bước vào thập niên sáu mươi với những nốt trầm khó bị lãng quên sau cuộc Đại Khủng hoảng Johnson[^2] vào đầu thập niên bốn mươi cũng như đại dịch Sốt xuất huyết Hoàng Hôn[^3] do chủng virus HHAV gây ra trong hai năm sau đó kéo sập nền văn minh nhân loại thụt lùi gần tám mươi năm. Để cứu vãn nền kinh tế tàn lụi sau khủng hoảng giải quyết dịch tễ, UN cho phép các quốc gia khởi động lại các dự án công nghiệp nặng từng bị đình chỉ vì ô nhiễm môi trường nhiều năm về trước. Nhưng cũng vì thế không khí thì dần chuyển sang màu xám nhạt vì khói bụi còn "lá phổi xanh" thì dần bị xơ hóa bởi các vết sẹo không bao giờ lành. Nhiệt độ Trái Đất thì tăng cao vì hiệu ứng nhà kính còn con người dần héo tàn vì chất lượng sống giảm kỷ lục...
 
-**[Liverpool, Anh Quốc – 30/4/2060]**
+**[Liverpool, Vương Quốc Anh – 30/4/2060]**
 
 — Anh Felix ơi, anh ăn bánh mì không? Em mới mua 2 ổ nè.
 
@@ -59,6 +61,7 @@ Vừa nói, từ trên bầu trời xuất hiện hàng loạt "Thánh giáo" m�
 
 Liệu nhân loại sẽ đi về đâu, cùng đoán chờ nhé!
 
+---
 [^1]: Sir Isaac Newton (1643–1727) là một nhà toán học, nhà vật lý học, nhà thiên văn học, nhà nghiên cứu thần học đại tài người Anh trong Cách mạng Khoa học. Đoạn trích trên dựa trên kết quả nghiên cứu thần học và giải mã Kinh Thánh của ông, được ghi lại trong bản thảo tay ký hiệu **Yahuda MS 7, folio 3 recto** (hiện đang được lưu giữ tại Thư viện Quốc gia Israel).
 
 [^2]: [[Chú thích/Đại Khủng hoảng Johnson\|Đại Khủng hoảng Johnson]] (2038–2043) **[yếu tố viễn tưởng]**: Biến cố tồi tệ nhất lịch sử nhân loại, gây ra bởi sự hối lộ, lũng đoạn và sụp đổ của Tập đoàn Công nghệ Johnson.

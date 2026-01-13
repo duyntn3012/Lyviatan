@@ -4,7 +4,8 @@
 
 # Chào mừng đến với góc nhỏ của mình!
 
-> *Đây là nơi mình đăng tải truyện do mình tự viết và trò chuyện cùng các bạn >_<
+>[!note] **Xin chào, mình là Duy**
+>*Đây là nơi mình đăng tải truyện do mình tự viết và trò chuyện cùng các bạn >_<*
 ---
 
 **Hồi 1: Tận thế và làm quen**

@@ -9,7 +9,7 @@
 ---
 
 **Hồi 1: Tận thế và làm quen**
-- [[Danh sách nội dung/Chương I\|Chương I]]: Tận thế
+- [[Chapters/Chương I\|Chương I]]: Tận thế
 
 >[!info] Lưu ý
 > Lịch đăng truyện của mình không có cố định, nhưng chậm nhất là 2 tuần mình sẽ đăng chương mới nhé.
